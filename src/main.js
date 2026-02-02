@@ -1,4 +1,5 @@
 console.log('App 2 loaded');
+console.log('Feature: Sandbox test for app2');
 console.log('Ref:', '__APP_REF__');
 console.log('SHA:', '__APP_SHA__');
 console.log('Env:', '__APP_ENV__');
